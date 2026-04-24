@@ -61,7 +61,7 @@ public class VentanaPrincipal {
 		root.setStyle(ESTILO_FONDO);
 
 		// --- DEFINICIÓN DE BOTONES ---
-		Button btnAgregar = crearBoton("➕ Añadir Evento", "#2E7D32");
+		Button btnAgregar = crearBoton("➕ Añadir nuevo evento a la agenda virtual", "#2E7D32");
 		Button btnListar = crearBoton("📋 Listar Eventos", "#81C784");
 		Button btnEliminar = crearBoton("🗑️ Eliminar Evento", "#6B8E23");
 		Button btnCompletar = crearBoton("✔ Marcar Completado", "#00C853");
